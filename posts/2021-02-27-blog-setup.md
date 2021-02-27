@@ -19,4 +19,9 @@ how:
  - https://github.com/11ty/eleventy-base-blog
  - cloned and edited, pushed to https://github.com/lpetre/luke.petre.net (done @14m)
  - host on github pages, follow https://lea-tortay.com/content/writings/github-pages-eleventy/ guide
+ - https://lpetre.github.io/luke.petre.net/ (done @0m)
+ - added five minute timebox (sad face)
  - custom github pages domain
+    - configured in route53
+    - waiting for ttl to expire
+    - done! https://luke.petre.net/
