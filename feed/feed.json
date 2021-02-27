@@ -1,0 +1,19 @@
+{
+  "version": "https://jsonfeed.org/version/1",
+  "title": "luke.petre.net",
+  "home_page_url": "https://luke.petre.net/",
+  "feed_url": "https://luke.petre.net/feed/feed.json",
+  "description": "Posts about projects I&#39;m working on.",
+  "author": {
+    "name": "Luke Petre",
+    "url": "https://luke.petre.net/about-me/"
+  },
+  "items": [{
+      "id": "https://luke.petre.net/posts/2021-02-27-blog-setup/",
+      "url": "https://luke.petre.net/posts/2021-02-27-blog-setup/",
+      "title": "luke.petre.net quick start",
+      "content_html": "<p>what:</p>\n<ul>\n<li>create <a href=\"http://luke.petre.net\">luke.petre.net</a> 11ty static site</li>\n<li>40 minute timebox (ie two octonauts episodes)</li>\n</ul>\n<p>how:</p>\n<ul>\n<li>timebox++ chrome extension</li>\n<li>vscode taking notes</li>\n<li>11ty quickstart guide (done @34 min)</li>\n<li><a href=\"https://github.com/11ty/eleventy-base-blog\">https://github.com/11ty/eleventy-base-blog</a></li>\n<li>cloned and edited, pushed to <a href=\"https://github.com/lpetre/luke.petre.net\">https://github.com/lpetre/luke.petre.net</a> (done @14m)</li>\n<li>host on github pages, follow <a href=\"https://lea-tortay.com/content/writings/github-pages-eleventy/\">https://lea-tortay.com/content/writings/github-pages-eleventy/</a> guide</li>\n<li>custom github pages domain</li>\n</ul>\n",
+      "date_published": "2021-02-27T00:00:00Z"
+    }
+  ]
+}

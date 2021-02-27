@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>luke.petre.net</title>
+	<subtitle>Posts about projects I&#39;m working on.</subtitle>
+	
+	<link href="https://luke.petre.net/feed/feed.xml" rel="self"/>
+	<link href="https://luke.petre.net/"/>
+	<updated>2021-02-27T00:00:00Z</updated>
+	<id>https://luke.petre.net/</id>
+	<author>
+		<name>Luke Petre</name>
+		<email>lpetre@gmail.com</email>
+	</author>
+	
+	<entry>
+		<title>luke.petre.net quick start</title>
+		<link href="https://luke.petre.net/posts/2021-02-27-blog-setup/"/>
+		<updated>2021-02-27T00:00:00Z</updated>
+		<id>https://luke.petre.net/posts/2021-02-27-blog-setup/</id>
+		<content type="html">&lt;p&gt;what:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;create &lt;a href=&quot;http://luke.petre.net/&quot;&gt;luke.petre.net&lt;/a&gt; 11ty static site&lt;/li&gt;
+&lt;li&gt;40 minute timebox (ie two octonauts episodes)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;how:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;timebox++ chrome extension&lt;/li&gt;
+&lt;li&gt;vscode taking notes&lt;/li&gt;
+&lt;li&gt;11ty quickstart guide (done @34 min)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/11ty/eleventy-base-blog&quot;&gt;https://github.com/11ty/eleventy-base-blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;cloned and edited, pushed to &lt;a href=&quot;https://github.com/lpetre/luke.petre.net&quot;&gt;https://github.com/lpetre/luke.petre.net&lt;/a&gt; (done @14m)&lt;/li&gt;
+&lt;li&gt;host on github pages, follow &lt;a href=&quot;https://lea-tortay.com/content/writings/github-pages-eleventy/&quot;&gt;https://lea-tortay.com/content/writings/github-pages-eleventy/&lt;/a&gt; guide&lt;/li&gt;
+&lt;li&gt;custom github pages domain&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+	</entry>
+</feed>
