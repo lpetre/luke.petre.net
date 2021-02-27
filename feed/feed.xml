@@ -3,10 +3,10 @@
 	<title>luke.petre.net</title>
 	<subtitle>Posts about projects I&#39;m working on.</subtitle>
 	
-	<link href="http://luke.petre.net/feed/feed.xml" rel="self"/>
-	<link href="http://luke.petre.net/"/>
+	<link href="https://luke.petre.net/feed/feed.xml" rel="self"/>
+	<link href="https://luke.petre.net/"/>
 	<updated>2021-02-27T00:00:00Z</updated>
-	<id>http://luke.petre.net/</id>
+	<id>https://luke.petre.net/</id>
 	<author>
 		<name>Luke Petre</name>
 		<email>lpetre@gmail.com</email>
@@ -14,9 +14,9 @@
 	
 	<entry>
 		<title>luke.petre.net quick start</title>
-		<link href="http://luke.petre.net/posts/2021-02-27-blog-setup/"/>
+		<link href="https://luke.petre.net/posts/2021-02-27-blog-setup/"/>
 		<updated>2021-02-27T00:00:00Z</updated>
-		<id>http://luke.petre.net/posts/2021-02-27-blog-setup/</id>
+		<id>https://luke.petre.net/posts/2021-02-27-blog-setup/</id>
 		<content type="html">&lt;p&gt;what:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;create &lt;a href=&quot;http://luke.petre.net/&quot;&gt;luke.petre.net&lt;/a&gt; 11ty static site&lt;/li&gt;
@@ -36,7 +36,7 @@
 &lt;ul&gt;
 &lt;li&gt;configured in route53&lt;/li&gt;
 &lt;li&gt;waiting for ttl to expire&lt;/li&gt;
-&lt;li&gt;done! &lt;a href=&quot;http://luke.petre.net/&quot;&gt;http://luke.petre.net/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;done! &lt;a href=&quot;https://luke.petre.net/&quot;&gt;https://luke.petre.net/&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;

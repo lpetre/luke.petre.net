@@ -2,42 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://luke.petre.net/posts/2021-02-27-blog-setup/</loc>
+    <loc>https://luke.petre.net/posts/2021-02-27-blog-setup/</loc>
     <lastmod>2021-02-27</lastmod>
   </url>
   
   <url>
-    <loc>http://luke.petre.net/about/</loc>
+    <loc>https://luke.petre.net/about/</loc>
     <lastmod>2021-02-27</lastmod>
   </url>
   
   <url>
-    <loc>http://luke.petre.net/posts/</loc>
+    <loc>https://luke.petre.net/posts/</loc>
     <lastmod>2021-02-27</lastmod>
   </url>
   
   <url>
-    <loc>http://luke.petre.net/</loc>
+    <loc>https://luke.petre.net/</loc>
     <lastmod>2021-02-27</lastmod>
   </url>
   
   <url>
-    <loc>http://luke.petre.net/page-list/</loc>
+    <loc>https://luke.petre.net/page-list/</loc>
     <lastmod>2021-02-27</lastmod>
   </url>
   
   <url>
-    <loc>http://luke.petre.net/tags/</loc>
+    <loc>https://luke.petre.net/tags/</loc>
     <lastmod>2021-02-27</lastmod>
   </url>
   
   <url>
-    <loc>http://luke.petre.net/tags/eleventy/</loc>
+    <loc>https://luke.petre.net/tags/eleventy/</loc>
     <lastmod>2021-02-27</lastmod>
   </url>
   
   <url>
-    <loc>http://luke.petre.net/tags/timeboxed/</loc>
+    <loc>https://luke.petre.net/tags/timeboxed/</loc>
     <lastmod>2021-02-27</lastmod>
   </url>
 </urlset>
