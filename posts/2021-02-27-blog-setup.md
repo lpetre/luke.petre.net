@@ -17,5 +17,6 @@ how:
  - vscode taking notes
  - 11ty quickstart guide (done @34 min)
  - https://github.com/11ty/eleventy-base-blog
- - host on github pages, custom domain
- - auto deploy w/ github actions
+ - cloned and edited, pushed to https://github.com/lpetre/luke.petre.net (done @14m)
+ - host on github pages, follow https://lea-tortay.com/content/writings/github-pages-eleventy/ guide
+ - custom github pages domain
