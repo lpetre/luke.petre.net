@@ -1,0 +1,20 @@
+{
+  "title": "luke.petre.net",
+  "url": "https://luke.petre.net/",
+  "description": "Posts about projects I'm working on.",
+  "feed": {
+    "subtitle": "Posts about projects I'm working on.",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "id": "https://luke.petre.net/"
+  },
+  "jsonfeed": {
+    "path": "/feed/feed.json",
+    "url": "https://luke.petre.net/feed/feed.json"
+  },
+  "author": {
+    "name": "Luke Petre",
+    "email": "lpetre@gmail.com",
+    "url": "https://luke.petre.net/about-me/"
+  }
+}
